@@ -1,0 +1,29 @@
+{
+  "name": "bitcore-message",
+  "main": "./bitcore-message.min.js",
+  "version": "1.0.3",
+  "homepage": "https://github.com/digicoinofficial/digicoincore-message",
+  "authors": [
+    "BitPay"
+  ],
+  "description": "Digicoin Message Verification and Signing for Digicoin",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "Digicoin",
+    "bitcore",
+    "btc",
+    "satoshi",
+    "message",
+    "signing"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
